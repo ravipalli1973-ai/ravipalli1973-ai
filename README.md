@@ -4,27 +4,17 @@
 
 🎓 B.Tech in Computer Science and Engineering
 
-🌱 Currently learning:
-
-* Data Science
-* Machine Learning
-* Python
-* SQL
-* Power BI
-
-💻 Also familiar with:
-
-* HTML
-* CSS
-* JavaScript
-
 ## 🛠️ Skills
 
 * Python
 * SQL
 * Power BI
 * Data Analysis
-* Machine Learning (Learning)
+* Data Science
+* Machine Learning
+* Generative AI
+* RAG
+* LLM
 * HTML
 * CSS
 * JavaScript
@@ -33,12 +23,15 @@
 
 ## 📂 Projects
 
+* Customer Churn Prediction system
+* Real Time invventory management system
+* Enterprise RAG Knowledge Assistant with AI Agents
 * Face Recognition Attendance System
 * Weather App
 
 ## 🎯 Career Objective
 
-Passionate about building practical software solutions and developing strong skills in Data Science, Machine Learning, Python, SQL, and Power BI. I enjoy learning new technologies and continuously improving my programming and problem-solving abilities.
+Passionate about building practical software solutions and developing strong skills in Data Science, Machine Learning, Python, SQL, Gen AI, RAG, LLM and Power BI. I enjoy learning new technologies and continuously improving my programming and problem-solving abilities.
 
 ## 📫 Contact
 
