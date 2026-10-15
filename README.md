@@ -9,7 +9,7 @@
 * Python
 * SQL
 * Power BI
-* Data Analysis
+* Data Analyst
 * Data Science
 * Machine Learning
 * Generative AI
@@ -25,6 +25,7 @@
 
 * Customer Churn Prediction system
 * Real Time invventory management system
+* E-Commerce Revenue & Customer Analytics
 * Enterprise RAG Knowledge Assistant with AI Agents
 * Face Recognition Attendance System
 * Weather App
